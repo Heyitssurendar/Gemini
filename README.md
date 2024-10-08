@@ -1,8 +1,8 @@
 <p>
-💻 React.js Frontend: Build a responsive user interface using React.js.
-🔗 Google Gemini API Integration: Seamlessly integrate Google's powerful Gemini API to power your app’s AI capabilities.
-💬 AI Chat Interface: Create an interactive chat interface where users can interact with the AI.
-⚡ Real-time Responses: Provide real-time, natural language responses using the power of generative AI.
+💻 React.js Frontend: Build a responsive user interface using React.js.<br>
+🔗 Google Gemini API Integration: Seamlessly integrate Google's powerful Gemini API to power your app’s AI capabilities.<br>
+💬 AI Chat Interface: Create an interactive chat interface where users can interact with the AI.<br>
+⚡ Real-time Responses: Provide real-time, natural language responses using the power of generative AI.<br>
 </p>
 # React + Vite
 
